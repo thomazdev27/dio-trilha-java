@@ -4,7 +4,7 @@ public class TiposVariaveis {
      // TiposEVariaveis.java
 
 short numeroCurto = 1;
-int numeroNormal = numeroCurto;
+short numeroNormal = numeroCurto;
 short numeroCurto2 = numeroNormal;
 
         System.out.println("Hello, World!");
