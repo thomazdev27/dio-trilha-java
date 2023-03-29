@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6473ba29-3b50-4dd4-a5c9-8a584c5322e3" name="Changes" comment="ifswitch" />
+    <list default="true" id="6473ba29-3b50-4dd4-a5c9-8a584c5322e3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,11 +47,19 @@
       <option name="project" value="LOCAL" />
       <updated>1680045930788</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="exercícios de if - switch">
+      <created>1680068923982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680068923982</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ifswitch" />
-    <option name="LAST_COMMIT_MESSAGE" value="ifswitch" />
+    <MESSAGE value="exercícios de if - switch" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercícios de if - switch" />
   </component>
 </project>
